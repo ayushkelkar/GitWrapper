@@ -10,11 +10,15 @@
 
 ---
 
-## Uses:
+## Pre-requisites:
 
-- **Python 3.15.3**
+- **Python 3.x**
+- Git (Added to PATH in Windows)
 
 ---
 
 ## 📦 Installation
- - None. Clone this Repository, and run the `gitwrapper_cli.py` script directly. I'll eventually make a `.exe` or something like that, not now though.
+ - None.
+ - For Windows PCs, download the .exe from the Releases Section and run it.
+ - For Linux PCs, run the `gitwrapper.py` file directly.
+
