@@ -1,4 +1,4 @@
-# GitWrapper v0.9.2
+# GitWrapper CLI v1.0
 import os
 import subprocess as sbp
 
@@ -86,7 +86,7 @@ def psh():
     
 # Defining a main function
 def main():
-    print("----------------------- GitWrapper v0.9 -----------------------\n")
+    print("----------------------- GitWrapper v1.0 -----------------------\n")
     print("----------------------- Step 1: Change Working Directory:- -----------------------\n")
     rslt1 = changedir()
     if rslt1 != 0:
