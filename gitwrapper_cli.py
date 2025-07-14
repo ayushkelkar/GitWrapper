@@ -108,6 +108,7 @@ def main():
         print("Commit(s) failed. Exiting.")
     else:
         print("----------------------- Push Successful! -----------------------")
+        input("\nPress Enter to exit...")
     
 # Fallback incase I import this somewhere else
 if __name__ == "__main__":
