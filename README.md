@@ -1,21 +1,20 @@
 # GitWrapper
 
-**GitWrapper** is a Python-based GUI application  (CLI based as of now) that wraps your basic Git commands — `add`, `commit`, and `push` — into a smooth, click-powered workflow.  
+**GitWrapper** is a Python-based CLI tool that wraps your basic Git commands — `add`, `commit`, and `push` 
 
 ---
 
 ##  Features
 
-- Basically automate the Git-process like `add .`, `commit -m`, and `push`. 
+- Basically automate the Git-process like `add`, `commit -m`, and `push`. 
 
 ---
 
-## 🛠️ Tech Stack
+## Uses:
 
 - **Python 3.15.3**
-- Rest I'm still figuring out
 
 ---
 
 ## 📦 Installation
- - To be Updated
+ - None. Clone this Repository, and run the `gitwrapper_cli.py` script directly. I'll eventually make a `.exe` or something like that, not now though.
